@@ -2,6 +2,7 @@ name: Mount Guava ranking
 
 on:
  workflow_call:
+ workflow_dispatch: 
 
 jobs:
   genOSM:
