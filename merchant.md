@@ -4,11 +4,16 @@
 **Coordinates:** -23.5424985, -46.6442935
 **Address:** Rua Aurora, 904, São Paulo, 01209-002
 **Details:**
+- **addr:city:** São Paulo
+- **addr:housenumber:** 904
+- **addr:postcode:** 01209-002
+- **addr:street:** Rua Aurora
 - **amenity:** cafe
 - **brand:** Casa do Pão de Queijo
 - **brand:wikidata:** Q9698946
 - **cuisine:** coffee_shop
 - **guava:** yes
+- **name:** Casa do Pão de Queijo
 - **takeaway:** yes
 
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:4845929869) 
