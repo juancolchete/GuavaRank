@@ -1,5 +1,5 @@
 {
-  description = "Juan Colchete portfolio development environment";
+  description = "jq env";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.05";
@@ -11,7 +11,7 @@
       pkgs = import nixpkgs { inherit system; };
     in {
       devShells.${system}.default = pkgs.mkShell {
-        name = "portfolio";
+        name = "jq-env";
 
         buildInputs = with pkgs; [
           jq
